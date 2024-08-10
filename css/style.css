@@ -5,8 +5,8 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background-color: #361515;
+    color: rgb(44, 24, 122);
     padding: 1em 0;
     text-align: center;
 }
@@ -14,6 +14,7 @@ header {
 nav ul {
     list-style-type: none;
     padding: 0;
+   
 }
 
 nav ul li {
@@ -31,7 +32,7 @@ main {
 }
 
 footer {
-    background-color: #333;
+    background-color: #803adc;
     color: white;
     text-align: center;
     padding: 1em 0;
@@ -39,3 +40,9 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+h1 {
+    color: #d62b2b;
+    font-family: 'Dancing Script', cursive; 
+    font-size: 5em;
+}   
